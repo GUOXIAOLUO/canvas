@@ -48,18 +48,13 @@ https://www.fhl.mom/register?aff=86L574B4T2N9  （包含codex和GPT image 2模�
 
 --------
 
-已经申请著作权，禁止商业用途
+## 许可证
 
-Commercial use is prohibited.
+本项目采用 [Unlicense](UNLICENSE)，项目自有代码可不受限制地用于开发、修改、再发布、私有部署及商业用途，无需授权或署名。
 
+This project is released under the [Unlicense](UNLICENSE). You may use, modify, distribute, deploy, and commercialize the project's own code without restriction, permission, or attribution.
 
-* 可以自己使用和公司使用，禁止用于任何形式的修改封装成商业产品，商用须取得授权。
-
-* 根据代码二次开发的软件必须保持开源并注明来源作者
-
-* This software is for personal and company use only, but is prohibited from being modified or packaged into commercial products in any way. Commercial use requires authorization.
-
-* Software developed based on this code must remain open source and the original author must be credited.
+仓库内随附的第三方运行时、依赖和资源仍分别适用其原有许可证；详见其各自的许可证文件与版权声明。
 
 --------
 
